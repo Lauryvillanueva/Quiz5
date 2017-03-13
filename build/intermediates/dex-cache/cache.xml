@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d0048b05888fac122fe1789bb9aa7c93848484a">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0606c80f88412918886bc456afe7175f05f3079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_f2f79ab9ed0e3c4bb1e2af22215526d1ec5295c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta5_825afc7623b0b7ecd07cd405617e5332ba34ec3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_f6290ada666f8763f747744e5e234f3ef880d6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_863661f542443dca1d31e9c559d876bc48709f5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_77a810d1b4737e17b83cd60ef610d80fb7d95cd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_f2de0309517c8880ba360fb773a5f35381da2ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_6a802e5c3d0f928715c726c29fbd18a084e55005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="118c7219694552c9cf2d3b5ca81a4025b24c0605">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4a44385385e45392e41008b1e63291638b295bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\AppData\Local\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta5\constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta5_5be23e2ad67cd79a01cc10dde29e816165a95e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_6dbe5d8181a7e4ceb1923424d125307c29883d91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_14c588b3cfebe14ede12ce362912752330a3c4a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_2baec979e50715245e6c81fb6f3a6b0c240309e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_bf33f24e8d3a6c46504695a08df5dbc4cf1ebe54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_e8debdb29e5e04dc0fd2b0cb859f15c27d7ba7d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_28da3d5fe79b425fb40807fcbb263e54c1edf69a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Laboratorio\Desktop\Semana6-master\Semana6-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_f5093ddb8300fa211f67a549fc19becffda85652\classes.dex" />
+    </item>
+
+</items>
